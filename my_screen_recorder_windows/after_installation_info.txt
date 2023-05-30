@@ -1,0 +1,5 @@
+Thnkyou for installation
+To get recorded screenshot video and audio file check
+"C:\Program Files (x86)\My Screen Recorder\output\"  directory
+or
+"installed location\My Screen Recorder\output\"  directory
